@@ -1,5 +1,4 @@
 <h1>Calculadora Android</h1>
-<h2>Aplicación Android Calculadora</h2>
 
 <p>Puede realizar cualquiera de las operaciones: </p>
 <ul>
