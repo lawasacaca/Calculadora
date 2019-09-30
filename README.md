@@ -1,7 +1,7 @@
 <h1>Calculadora Android</h1>
-<h2>Aplicación Android con la funcionalidad de una sencilla calculadora</h2>
+<h2>Aplicación Android Calculadora</h2>
 
-<p>Puede realizar cualquiera de las operaciones sencillas que realiza una calculadora: </p>
+<p>Puede realizar cualquiera de las operaciones: </p>
 <ul>
   <li>Sumas.</li>
   <li>Restas.</li>
